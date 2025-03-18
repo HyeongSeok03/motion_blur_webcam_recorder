@@ -2,6 +2,8 @@
 A simple **webcam recorder** built using `opencv-python` that includes a **motion blur effect**.  
 The motion blur effect is implemented using **image addition (image averaging)**.
 
+[Demonstration Video!!!](https://youtu.be/arnTZwRtIRU)
+
 ## Features
 - **Record webcam footage** with start/stop control.
 - **Motion blur effect** that can be toggled on/off.
